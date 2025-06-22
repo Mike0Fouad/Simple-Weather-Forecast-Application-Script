@@ -1,0 +1,4 @@
+pyowm
+geocoder
+country_converter
+python-dotenv
